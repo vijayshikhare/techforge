@@ -359,7 +359,7 @@ in the Software without restriction...
 - 📧 Email: vijayshikhareteam@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/vijayshikhare](https://linkedin.com/in/vijayshikhare)
 - 🐙 GitHub: [github.com/vijayshikhare](https://github.com/vijayshikhare)
-- 🌐 Portfolio: [vijayshikhare.dev](https://vijayshikhare.dev)
+- 🌐 Portfolio: [vijayshikhare](https://vijayshikhare.github.io/vijayshikhare-portfolio-site)
 
 **Have questions or suggestions?** Open an issue on GitHub or reach out via email!
 
@@ -394,19 +394,6 @@ in the Software without restriction...
 ## 🏷️ Tags
 
 `#React` `#TailwindCSS` `#Vite` `#Vercel` `#LandingPage` `#WebDesign` `#Frontend` `#UIDesign` `#ResponsiveWeb` `#ModernWeb` `#ITSolutions` `#DigitalTransformation` `#WebDevelopment` `#PortfolioProject`
-
----
-
-## 📸 Screenshots
-
-### Desktop View
-![Hero Section](https://via.placeholder.com/1200x600?text=TechForge+Hero+Section)
-
-### Mobile View
-![Mobile Responsive](https://via.placeholder.com/400x800?text=Mobile+Responsive+Design)
-
-### Services Section
-![Services Grid](https://via.placeholder.com/1200x600?text=Services+Grid)
 
 ---
 
